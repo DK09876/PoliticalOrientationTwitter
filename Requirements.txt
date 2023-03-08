@@ -11,3 +11,15 @@ pip install scikit-learn
 pip install nbiimporter
 
 pip install nltk
+
+pip install keras
+
+pip install tensorflow
+
+#for macOS
+
+#pip install tensorflow-macos 
+
+pip install Sequential
+ 
+pip install Seq2Pat
