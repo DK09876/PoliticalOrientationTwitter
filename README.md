@@ -7,4 +7,13 @@ Use to install all the libraries
 
 pip install -r requirements.txt
 
+--------------------------------
+Steps of project:
+--------------------------------
+
+DataCollection
+
+Classifiers.ipynb
+
+FinalPrediction.ipynb
 
