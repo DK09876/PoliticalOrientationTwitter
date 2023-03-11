@@ -11,7 +11,7 @@ pip install -r requirements.txt
 Steps of project:
 --------------------------------
 
-DataCollection
+GettingData.ipynb
 
 Classifiers.ipynb
 
